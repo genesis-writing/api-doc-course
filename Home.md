@@ -2,6 +2,8 @@
 
 Welcome to my api-doc-course wiki! This is a space for learning and fun 😎
 
+I am really enjoying this course. Who knew there was so much to know about APIs?
+
 # surfreport/{beachId}
 
 Returns information about surfing conditions at a specific beach ID, including the surf height, water temperature, wind, and tide. Also provides an overall recommendation about whether to go surfing.
