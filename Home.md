@@ -2,7 +2,7 @@
 
 Welcome to my api-doc-course wiki! This is a space for learning and fun 😎
 
-I am really enjoying this course. Who knew there was so much to know about APIs?
+I am really enjoying this course. Who knew there was so much to know about APIs? 🤔
 
 # surfreport/{beachId}
 
