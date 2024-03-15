@@ -7,3 +7,10 @@ This is a file for my GitHub Desktop lesson.
 * Item 1
 * Item 2
 * Item 3
+
+----------------------------------------------
+
+### Quote
+
+> Woof
+> - my dog
