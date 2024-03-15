@@ -14,3 +14,13 @@ This is a file for my GitHub Desktop lesson.
 
 > Woof
 > - my dog
+
+#### Some code
+
+```
+{
+    "firstName": "Naruto",
+    "lastName": "Uzumaki",
+    "age": 30
+}
+```
